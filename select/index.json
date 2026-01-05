@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "どうにもとまらない",
+  "base_artist": "山本リンダ",
+  "createdAt": "2026-01-05T16:54:39.388122Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "どうにもとまらない",
+      "artist": "Kumi Koda",
+      "has_synced": true,
+      "path": "select/01_どうにもとまらない_Kumi_Koda.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "どうにもとまらない",
+      "artist": "Linda Yamamoto",
+      "has_synced": true,
+      "path": "select/02_どうにもとまらない_Linda_Yamamoto.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "どうにもとまらない",
+      "artist": "9mm Parabellum Bullet",
+      "has_synced": true,
+      "path": "select/03_どうにもとまらない_9mm_Parabellum_Bullet.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "どうにもとまらない",
+      "artist": "山本リンダ",
+      "has_synced": true,
+      "path": "select/04_どうにもとまらない_山本リンダ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "どうにもとまらない",
+      "artist": "山本 リンダ",
+      "has_synced": false,
+      "path": "select/pl_01_どうにもとまらない_山本_リンダ.txt"
+    }
+  ]
+}
